@@ -6,7 +6,7 @@ a number whose only kth bit is set
 For example num is 11 (1 0 1 1) and we have to set 2 th bit so anwser should be  15 (1 1 1 1)
 which is 1 0 1 0 `OR` 0 1 0 0
 Difficulty: Easy
-Tags : 
+Tags : Big magic
 */
 
 #include <iostream>
